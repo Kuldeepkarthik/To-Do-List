@@ -1,0 +1,32 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - Realm (10.13.0):
+    - Realm/Headers (= 10.13.0)
+  - Realm/Headers (10.13.0)
+  - RealmSwift (10.13.0):
+    - Realm (= 10.13.0)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - RealmSwift
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - Realm
+    - RealmSwift
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Realm: e3a1225aafa7cec96a020dc199201b9d1f9cd59c
+  RealmSwift: 62585b4a934754a9d9117331689f4e8a5b1f6113
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: 55a91339e15777e6473cc2b3fe85503b2984faf9
+
+COCOAPODS: 1.10.2
